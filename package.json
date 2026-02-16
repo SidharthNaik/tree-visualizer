@@ -1,0 +1,21 @@
+{
+  "name": "tree-visualizer",
+  "version": "1.0.0",
+  "description": "Browser-based tree visualizer for LeetCode problems",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "tree",
+    "visualizer",
+    "leetcode",
+    "binary-tree",
+    "n-ary-tree",
+    "graph",
+    "data-structures"
+  ],
+  "author": "",
+  "license": "MIT"
+}
